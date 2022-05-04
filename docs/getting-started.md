@@ -4,6 +4,8 @@ sidebar_position: 1
 
 # Getting started
 
+## Introduction
+
 Monica aims to document someone's life. Your life is a series of events that happens to you, and a series of interactions with the people close to you, personally or professionally. By documenting what's happening to you, and what happens to others, we believe we can improve everyone's life greatly.
 
 At its core, Monica has a few key concepts:
@@ -16,48 +18,14 @@ An account is what users sign up for when they register to Monica. It's the root
 
 A vault hosts user's data – basically contacts, documents etc... An account can have as many vaults as needed. Vaults are private inside an account. This means that other users in the account, even if they are administrators of the account, can't read the data in a vault if there are not part of this vault. They can’t even see that the vault exists, for that matter.
 
-A contact is the core data of Monica. It's someone you know (or think you know). A contact lives inside a vault.
+A contact is the core data of Monica. It's someone you know (or think you know). A contact lives inside a vault. Monica lets you document everything about this contact, including his/her social graph: children, family, and so on.
 
+## Core philosophy
 
+Your life is unique to you. No one else in the entire universe has the same life and values that you have. This is why we have built Monica around the following values:
 
+* Inclusive: we do not discrimate on the basis of race, color, religion, gender, national origin (ancestry), disability, marital status or sexual orientation. Everything we do in Monica supports this.
+* Customizable: we believe that every single piece of information in Monica should be customizable to your own taste. Whenever we can, we will let you personalize your experience based on what you live in your life.
+* Simple, yet powerful: the default experience should be easy to use for everyone, and anyone without any technical skills should be able to use the software. However, if you need more power, we will give you tools to bind Monica to your will.
+* Open: Monica is and always will be open source. Anyone can read the source code. Anyone can contribute to make the software better, but that doesn't mean we will accept every contribution. We deeply care about the experience we want to provide to our community, and sometimes, there are contributions that we don't want to support. It might piss you off, but please ask us before submitting something if you are not sure.
 
-
-## Getting Started
-
-Get started by **creating a new site**.
-
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
-
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
