@@ -25,4 +25,9 @@ A vault can have one or more users. Those users must be in the same account.
 
 If you are not part of the vault, you can’t access it – and you can’t even see the vault on your dashboard.
 
-Even if you are the account administrator, you won’t be able to access a vault if you are not part of the vault. You won’t see the vault on your dashboard as well.
+Let's be clear: even if you are the account administrator, you won’t be able to access a vault if you are not part of that vault. And you won’t see the vault on your dashboard as well.
+
+This makes vaults super flexible. For instance, if you are part a family, you can have your own vault with your work contacts, your spouse can have her own vault and you can have a shared vault with data that need to be shared.
+
+### Granting permissions
+
