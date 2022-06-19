@@ -17,12 +17,20 @@ Inside the same account, users who not part of a vault can't see the content of 
 
 Creating a vault is the first step every new user of Monica should do–as otherwise, there is nothing else to do in the account.
 
-## Vault visibility & permissions
+There are no limits on the number of vaults in an account. The typical use case, though, is to have one vault per user in the account, and possibly a shared vault as well.
 
-### General information
+### A note about vault visibility & permissions
 
 A vault can have one or more users. Those users must be in the same account.
 
 If you are not part of the vault, you can’t access it – and you can’t even see the vault on your dashboard.
 
-Even if you are the account administrator, you won’t be able to access a vault if you are not part of the vault. You won’t see the vault on your dashboard as well.
+Even if you are the account administrator, you won’t be able to access a vault if you are not part of the vault. You won’t even see the vault on your dashboard as well.
+
+## Creating a vault
+
+To create a vault, you must head to the `/home` page, and click on the Create vault button.
+
+A vault needs a name. Try to keep the name as descriptive as possible.
+
+You can also specify a description if you like, but it's not mandatory. The vault's description will be seen on the vault's list.
