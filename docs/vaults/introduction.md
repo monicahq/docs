@@ -34,3 +34,20 @@ To create a vault, you must head to the `/home` page, and click on the Create va
 A vault needs a name. Try to keep the name as descriptive as possible.
 
 You can also specify a description if you like, but it's not mandatory. The vault's description will be seen on the vault's list.
+
+### A note about the user
+
+When you create a vault, Monica will automatically create a contact inside this vault and associate it with you, the user.
+
+This contact will represent you. You can't delete this contact yourself, but another vault's administrator will be able to delete it.
+
+Why do we add yourself in the account?
+
+* to be able to link contacts to you, through relationships,
+* to let you have your own dashboard in the vault.
+
+## Deleting a vault
+
+When you delete a vault, you will delete all the items that were in the vault, forever. There is currently no way to retrieve the data once a vault is deleted.
+
+Deleting a vault is also instantaneous. Make sure you know what you are doing.
