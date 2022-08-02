@@ -2,9 +2,9 @@
 sidebar_position: 1
 ---
 
-# Getting started
+# Introduction
 
-## Introduction and key concepts
+## Key concepts
 
 Monica aims to document someone's life. Your life is a series of events that happens to you, and a series of interactions with the people close to you, personally or professionally. By documenting what's happening to you, and what happens to others, we believe we can improve your's life greatly.
 
@@ -32,4 +32,3 @@ Your life is unique to you. No one else in the entire universe has the same life
 * Open: Monica is and always will be open source. Anyone can read the source code. Anyone can contribute to make the software better, but that doesn't mean we will accept every contribution. We deeply care about the experience we want to provide to our community, and sometimes, there are contributions that we don't want to support. It might piss you off, but please ask us before submitting something if you are not sure.
 * Also open: you can export your data at any time, in a free format. You will never be locked on our platform.
 * Private: Monica is for your eyes only. Your data belong to you. We don't serve ads, never have (for 7+ years) and never will. We haven't and won't sold your data to anyone.
-
