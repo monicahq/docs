@@ -1,8 +1,5 @@
 ---
 id: introduction
-title: Installation
-sidebar_label: Installation
-sidebar_position: 1
 ---
 
 ### Setup Telegram for development
