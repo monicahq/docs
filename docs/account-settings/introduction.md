@@ -13,9 +13,9 @@ This is where the Settings page on Monica truly shines - you will be able to cus
 
 Settings are divided into two categories:
 
-- User settings,
-- Account settings.
+- User settings
+- Account settings
 
-User settings apply only to the logged user. Account settings apply to everyone on the account.
+User settings apply only to the logged in user. Account settings apply to everyone on the account.
 
-User settings can only be changed by the logged user. Account settings can only be changed by users with the right permissions.
+User settings can only be changed by the logged in user. Account settings can only be changed by users with account administration permissions.
