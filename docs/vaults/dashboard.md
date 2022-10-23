@@ -11,19 +11,19 @@ sidebar_position: 2
 
 The dashboard contains two things:
 
-1. The feed, and the quick actions to add content,
+1. The feed, and quick actions to add content.
 2. Some key data that you need to focus on.
 
 ## Key data
 
-There are several data that you should keep an eye on:
+There are several pieces of data that you should keep an eye on:
 
-1. The contact that were last updated last,
-2. The reminders in the next 30 days,
-3. The open tasks.
+1. Contacts that were last updated.
+2. Reminders in the next 30 days.
+3. Open tasks.
 
 ### Last updated contacts
 
-This widget contains the 5 last contacts that were updated by any users in the vault. Updating means any information that were added, edited or removed in the contact entry.
+This widget contains the last 5 contacts that were updated by any users in the vault. Updating means any information that was added, edited or removed in the contact entry.
 
 There is no way to define the number of contacts that are shown here.
